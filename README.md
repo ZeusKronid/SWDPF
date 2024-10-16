@@ -1,2 +1,2 @@
 # SWDPF
-For future article. Still working on it. 
+Main idea is to acquire weather forecast data for improving vessel positioning. 
